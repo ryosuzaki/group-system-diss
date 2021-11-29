@@ -1,10 +1,10 @@
 <?php
 
-namespace GroupSystem\Sample;
+namespace GroupSystem\Diss;
 
 use Illuminate\Support\ServiceProvider;
 
-class SampleServiceProvider extends ServiceProvider
+class DissServiceProvider extends ServiceProvider
 {
     public function boot()
     {
